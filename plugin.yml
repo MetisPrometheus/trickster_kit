@@ -1,0 +1,7 @@
+name: Trickster_Kit
+version: 1
+main: com.ivarkronos.trickster.MainPlugin
+api-version: 1.14
+
+author: IvarW
+description: Trickster Kit.
